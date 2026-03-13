@@ -61,3 +61,10 @@ Based on the SQL analysis, several important business insights were identified:
 - **Sales Trend:** Monthly sales analysis shows an overall growth trend over time with several peaks during later years.
 
 - **Business Growth:** The cumulative sales analysis shows steady revenue growth over the years.
+
+## Project Structure
+
+sql-superstore-sales-analysis/
+│
+├── superstore_sales_analysis.sql   # SQL queries used for analysis
+└── README.md                       # Project documentation
