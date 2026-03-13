@@ -64,7 +64,9 @@ Based on the SQL analysis, several important business insights were identified:
 
 ## Project Structure
 
+```
 sql-superstore-sales-analysis/
 │
 ├── superstore_sales_analysis.sql   # SQL queries used for analysis
 └── README.md                       # Project documentation
+```
