@@ -47,3 +47,17 @@ These queries demonstrate core SQL skills such as:
 - Date conversion (`STR_TO_DATE`)
 - Time analysis (`DATE_FORMAT`)
 - Window functions (`OVER`)
+
+## Key Insights
+
+Based on the SQL analysis, several important business insights were identified:
+
+- **Regional Performance:** The West region generated the highest total sales, while the South region had the lowest sales performance.
+
+- **Product Performance:** The Canon imageCLASS 2200 Advanced Copier generated the highest revenue among all products in the dataset.
+
+- **Category Profitability:** Technology products produced the highest total profit, while Furniture generated significantly lower profit.
+
+- **Sales Trend:** Monthly sales analysis shows an overall growth trend over time with several peaks during later years.
+
+- **Business Growth:** The cumulative sales analysis shows steady revenue growth over the years.
